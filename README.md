@@ -4,16 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/andrewodom18">
-    <img src="https://img.shields.io/badge/GitHub-andrewodom18-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-andrewodom18-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb" alt="GitHub profile" />
   </a>
-  <img src="https://img.shields.io/badge/Role-Software%20Developer-1f6feb?style=for-the-badge" alt="Software Developer" />
+  <img src="https://img.shields.io/badge/Role-Software%20Developer-1f6feb?style=for-the-badge&labelColor=1f6feb" alt="Software Developer" />
   <a href="https://www.linkedin.com/in/andrewodom18/">
-    <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Odom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Odom-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f6feb" alt="LinkedIn profile" />
   </a>
-  <a href="https://buymeacoffee.com/andrewodom18">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-andrewodom18-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy me a coffee" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=24292f&label=profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=1f6feb&label=profile+views" alt="Profile views" />
 </p>
 
 <table>
@@ -34,7 +31,7 @@
   </p>
   <p>
     <a href="https://buymeacoffee.com/andrewodom18">
-      <img src="https://img.shields.io/badge/%23buymeacoffee-fund%20my%20addiction-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="#buymeacoffee" />
+      <img src="https://img.shields.io/badge/%23buymeacoffee-click%20for%20caffeine-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="#buymeacoffee" />
     </a>
   </p>
   <p>
