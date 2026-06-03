@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1f6feb,50:24292f,100:8957e5&text=Andrew%20Odom&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=Software%20Developer%20%7C%20Data%20Cleanup%20Systems%20%7C%20Workflow%20Tooling&descAlign=50&descAlignY=61" alt="Andrew Odom profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1f6feb,50:24292f,100:8957e5&text=Andrew%20Odom&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=Software%20Developer%20%7C%20Occasional%20Codex%20Abuser&descAlign=50&descAlignY=61" alt="Andrew Odom profile banner" width="100%" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/GitHub-andrewodom18-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <img src="https://img.shields.io/badge/Role-Software%20Developer-1f6feb?style=for-the-badge" alt="Software Developer" />
-  <a href="https://www.linkedin.com/in/andrewodom18">
+  <a href="https://www.linkedin.com/in/andrewodom18/">
     <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Odom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=24292f&label=profile+views" alt="Profile views" />
@@ -21,15 +21,14 @@
   <sub><samp>@andrewodom18</samp></sub>
 </td>
 <td valign="top">
-  <h1>Hello!</h1>
+  <h1>I turn "why are we doing this manually?" into "we are not."</h1>
   <p>
-    Software developer in Montgomery, Alabama, currently building practical
-    tools for the Air Force side of the house. I like software that removes
-    repetitive work, cleans up messy data, and leaves behind documentation
-    good enough that future me does not have to open a detective agency.
+    Software developer building web apps, mobile apps, data tooling, and server
+    automation. I focus on tools that reduce manual work and improve messy
+    processes.
   </p>
   <p>
-    <samp>I turn messy workflows into buttons people actually click...</samp>
+    <samp>Ship the useful thing. Test the weird edge case. Rename final_final_v3 before it gets promoted.</samp>
   </p>
 </td>
 </tr>
