@@ -80,12 +80,6 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Tailscale-secure%20networking-1f6feb?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale secure networking" />
-  <img src="https://img.shields.io/badge/Clerk-auth%20platform-1f6feb?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk auth platform" />
-  <img src="https://img.shields.io/badge/Convex-app%20backend-1f6feb?style=for-the-badge&logo=convex&logoColor=white" alt="Convex app backend" />
-</p>
-
-<p>
   A lot of my work lives in private repos, but the stack still counts. Recent
   projects include TypeScript web apps, Flutter mobile apps, realtime browser
   experiences, Supabase-backed products, Home Assistant config, and server
