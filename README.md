@@ -135,7 +135,18 @@
 ## <samp>contact</samp>
 
 <p>
-  Best place to start is GitHub:
+  Best place to start is the contact form on my resume site:
+  <a href="https://aodom.dev/#contact">aodom.dev/#contact</a>.
+</p>
+
+<p align="center">
+  <a href="https://aodom.dev/#contact">
+    <img src="https://img.shields.io/badge/Contact%20form-aodom.dev%2F%23contact-1f6feb?style=for-the-badge" alt="Contact form on aodom.dev" />
+  </a>
+</p>
+
+<p>
+  GitHub is still good for code-shaped conversations:
   <a href="https://github.com/andrewodom18">@andrewodom18</a>.
 </p>
 
