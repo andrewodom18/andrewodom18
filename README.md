@@ -48,8 +48,6 @@
   <samp>
     <a href="#resume-snapshot">resume</a>
     /
-    <a href="#featured-work">featured work</a>
-    /
     <a href="#toolbox">toolbox</a>
     /
     <a href="#private-org-stats">stats</a>
@@ -73,34 +71,6 @@
 | Primary lane | Full-stack web apps, Flutter mobile apps, data cleanup systems, and server automation |
 | Private project range | Real-time browser games, business websites, mobile recordkeeping apps, internal event tools, home/server automation |
 | What I enjoy | Turning "this CSV is cursed" into "click here, get the clean file" |
-| Featured project | Shadow-View, a Python toolkit for cleaning Shadow View CSV exports |
-
-<a id="featured-work"></a>
-
-## <samp>featured work</samp>
-
-<table>
-<tr>
-<td width="34%" valign="top">
-  <h3>Shadow-View</h3>
-  <p><samp>Python / CSV / SQLite / TOML / unittest / Windows app packaging</samp></p>
-</td>
-<td valign="top">
-  <p>
-    A set of Python helper tools for cleaning Shadow View CSV exports. It
-    supports Co-Traveler and Rogue Tower workflows, produces cleaned CSV files,
-    can generate color-coded HTML previews and Excel workbooks, and includes a
-    Windows desktop app for offline users who should not need to care whether
-    Python is installed.
-  </p>
-  <p>
-    The cleaner logic is packaged for backend integration, the cleanup rules
-    are config-driven, and the test suite keeps the data transformations honest.
-    In other words: fewer spreadsheet rituals, more repeatable outputs.
-  </p>
-</td>
-</tr>
-</table>
 
 <a id="toolbox"></a>
 
