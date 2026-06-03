@@ -76,7 +76,7 @@
 ## <samp>toolbox</samp>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,astro,nodejs,dart,flutter,supabase,docker,tailscale,git,github,bash,linux,vscode" alt="Python, TypeScript, React, Next.js, Astro, Node.js, Dart, Flutter, Supabase, Docker, Tailscale, Git, GitHub, Bash, Linux, VS Code" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,astro,nodejs,threejs,dart,flutter,supabase,docker,tailscale,git,github,bash,linux,vscode" alt="Python, JavaScript, TypeScript, React, Next.js, Astro, Node.js, Three.js, Dart, Flutter, Supabase, Docker, Tailscale, Git, GitHub, Bash, Linux, VS Code" />
 </p>
 
 <p>
@@ -88,7 +88,7 @@
 
 | Category | Tools and habits |
 | --- | --- |
-| Languages | Python, TypeScript, Dart, SQL/PLpgSQL, Shell, PowerShell, HTML, CSS |
+| Languages | Python, JavaScript, TypeScript, Dart, SQL/PLpgSQL, Shell, PowerShell, HTML, CSS |
 | Web apps | React, Next.js, Astro, Vite, Tailwind CSS, Node.js, Express, WebSockets |
 | Mobile apps | Flutter, Riverpod, GoRouter, local notifications, secure storage, file/image pickers, PDF generation |
 | Data and backend | Supabase, SQLite, Drizzle ORM, CSV pipelines, TOML configs, Excel/HTML exports |
