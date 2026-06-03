@@ -21,7 +21,7 @@
   <sub><samp>@andrewodom18</samp></sub>
 </td>
 <td valign="top">
-  <h1>I turn messy workflows into buttons people actually click.</h1>
+  <h1>Hello!</h1>
   <p>
     Software developer in Montgomery, Alabama, currently building practical
     tools for the Air Force side of the house. I like software that removes
@@ -29,7 +29,7 @@
     good enough that future me does not have to open a detective agency.
   </p>
   <p>
-    <samp>Ship the useful thing. Test the weird edge case. Rename final_final_v3 before it gets promoted.</samp>
+    <samp>I turn messy workflows into buttons people actually click...</samp>
   </p>
 </td>
 </tr>
