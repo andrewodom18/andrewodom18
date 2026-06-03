@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=1f6feb&label=profile+views" alt="Profile views" />
 </p>
 
-<table>
+<table align="center">
 <tr>
 <td width="170" align="center" valign="top">
   <img src="https://github.com/andrewodom18.png" width="138" alt="Andrew Odom avatar" />
@@ -63,19 +63,38 @@
 
 ## <samp>resume snapshot</samp>
 
-| Area | Details |
-| --- | --- |
-| Current role | Software Developer - Air Force |
-| Location | Montgomery, Alabama |
-| Primary lane | Full-stack web apps, Flutter mobile apps, data cleanup systems, and server automation |
-| Private project range | Real-time browser games, business websites, mobile recordkeeping apps, internal event tools, home/server automation |
-| What I enjoy | Turning "this CSV is cursed" into "click here, get the clean file" |
+<table align="center">
+<tr>
+<th align="left">Area</th>
+<th align="left">Details</th>
+</tr>
+<tr>
+<td>Current role</td>
+<td>Software Developer - Air Force</td>
+</tr>
+<tr>
+<td>Location</td>
+<td>Montgomery, Alabama</td>
+</tr>
+<tr>
+<td>Primary lane</td>
+<td>Full-stack web apps, Flutter mobile apps, data cleanup systems, and server automation</td>
+</tr>
+<tr>
+<td>Private project range</td>
+<td>Real-time browser games, business websites, mobile recordkeeping apps, internal event tools, home/server automation</td>
+</tr>
+<tr>
+<td>What I enjoy</td>
+<td>Turning "this CSV is cursed" into "click here, get the clean file"</td>
+</tr>
+</table>
 
 <a id="toolbox"></a>
 
 ## <samp>toolbox</samp>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,astro,nodejs,threejs,dart,flutter,supabase,docker,git,github,bash,linux,vscode" alt="Python, JavaScript, TypeScript, React, Next.js, Astro, Node.js, Three.js, Dart, Flutter, Supabase, Docker, Git, GitHub, Bash, Linux, VS Code" />
 </p>
 
@@ -86,15 +105,40 @@
   automation. The commits may be private; the experience is not.
 </p>
 
-| Category | Tools and habits |
-| --- | --- |
-| Languages | Python, JavaScript, TypeScript, Dart, SQL/PLpgSQL, Shell, PowerShell, HTML, CSS |
-| Web apps | React, Next.js, Astro, Vite, Tailwind CSS, Node.js, Express, WebSockets |
-| Mobile apps | Flutter, Riverpod, GoRouter, local notifications, secure storage, file/image pickers, PDF generation |
-| Auth and backend | Clerk, Convex, Supabase, SQLite, Drizzle ORM, CSV pipelines, TOML configs, Excel/HTML exports |
-| Realtime and interactive | Three.js, server-authoritative game loops, browser clients, Node/ws services |
-| Infrastructure | Docker, Compose, Tailscale, Ansible, Just, PM2, Linux service automation, Home Assistant |
-| Quality | TypeScript checks, ESLint, Python unittest, Flutter tests, GitHub Actions, README-first handoffs |
+<table align="center">
+<tr>
+<th align="left">Category</th>
+<th align="left">Tools and habits</th>
+</tr>
+<tr>
+<td>Languages</td>
+<td>Python, JavaScript, TypeScript, Dart, SQL/PLpgSQL, Shell, PowerShell, HTML, CSS</td>
+</tr>
+<tr>
+<td>Web apps</td>
+<td>React, Next.js, Astro, Vite, Tailwind CSS, Node.js, Express, WebSockets</td>
+</tr>
+<tr>
+<td>Mobile apps</td>
+<td>Flutter, Riverpod, GoRouter, local notifications, secure storage, file/image pickers, PDF generation</td>
+</tr>
+<tr>
+<td>Auth and backend</td>
+<td>Clerk, Convex, Supabase, SQLite, Drizzle ORM, CSV pipelines, TOML configs, Excel/HTML exports</td>
+</tr>
+<tr>
+<td>Realtime and interactive</td>
+<td>Three.js, server-authoritative game loops, browser clients, Node/ws services</td>
+</tr>
+<tr>
+<td>Infrastructure</td>
+<td>Docker, Compose, Tailscale, Ansible, Just, PM2, Linux service automation, Home Assistant</td>
+</tr>
+<tr>
+<td>Quality</td>
+<td>TypeScript checks, ESLint, Python unittest, Flutter tests, GitHub Actions, README-first handoffs</td>
+</tr>
+</table>
 
 <a id="private-org-stats"></a>
 
@@ -107,14 +151,36 @@
   <img src="https://img.shields.io/badge/Updated%20since%20May%204%2C%202026-14-2ea043?style=for-the-badge" alt="14 repositories updated since May 4, 2026" />
 </p>
 
-| Signal | What the public cards miss |
-| --- | --- |
-| Codebase footprint | 15 accessible repos across public, private, organization, and collaboration work |
-| Private work | 14 private repos represented without exposing private code or implementation details |
-| Org/collab work | 13 repos in organizations or collaborator-owned spaces |
-| Recent activity | 14 repos updated since May 4, 2026 |
-| Language footprint | TypeScript 66.4%, Dart 24.8%, CSS 3.0%, Python 2.7%, PLpgSQL 1.2%, Shell 1.0% |
-| Product surface | Full-stack web apps, Flutter mobile apps, realtime browser experiences, data tools, server automation |
+<table align="center">
+<tr>
+<th align="left">Signal</th>
+<th align="left">What the public cards miss</th>
+</tr>
+<tr>
+<td>Codebase footprint</td>
+<td>15 accessible repos across public, private, organization, and collaboration work</td>
+</tr>
+<tr>
+<td>Private work</td>
+<td>14 private repos represented without exposing private code or implementation details</td>
+</tr>
+<tr>
+<td>Org/collab work</td>
+<td>13 repos in organizations or collaborator-owned spaces</td>
+</tr>
+<tr>
+<td>Recent activity</td>
+<td>14 repos updated since May 4, 2026</td>
+</tr>
+<tr>
+<td>Language footprint</td>
+<td>TypeScript 66.4%, Dart 24.8%, CSS 3.0%, Python 2.7%, PLpgSQL 1.2%, Shell 1.0%</td>
+</tr>
+<tr>
+<td>Product surface</td>
+<td>Full-stack web apps, Flutter mobile apps, realtime browser experiences, data tools, server automation</td>
+</tr>
+</table>
 
 <p>
   <sub><samp>Snapshot generated from GitHub metadata this profile can access. Private implementation details stay private; the work still counts.</samp></sub>
