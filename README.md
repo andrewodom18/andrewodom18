@@ -21,14 +21,12 @@
   <sub><samp>@andrewodom18</samp></sub>
 </td>
 <td valign="top">
-  <h1>I fix he "why are we doing this manually?" problem."</h1>
+  <h2>Hello World!</h1>
   <p>
-    Software developer building web apps, mobile apps, data tooling, and server
-    automation. I focus on tools that reduce manual work and improve messy
-    processes.
+    I am a software developer whose expertise is websites, web/mobile apps, data tooling, and server automation. I focus on tools that reduce manual work and improve messy processes so everyone can have a good time. I am a professional coding hobbyist who is highly skilled in converting caffeine to code. #buymeacoffee
   </p>
   <p>
-    <samp>Ship the useful thing. Test the weird edge case. Rename final_final_v3 before it gets promoted.</samp>
+    <samp>I fix the "why are we doing this manually?" problem...</samp>
   </p>
 </td>
 </tr>
