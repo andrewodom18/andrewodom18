@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=1f6feb&label=profile+views" alt="Profile views" />
 </p>
 
-<table align="center">
+<table width="100%">
 <tr>
 <td width="170" align="center" valign="top">
   <img src="https://github.com/andrewodom18.png" width="138" alt="Andrew Odom avatar" />
@@ -63,7 +63,7 @@
 
 ## <samp>resume snapshot</samp>
 
-<table align="center">
+<table width="100%">
 <tr>
 <th align="left">Area</th>
 <th align="left">Details</th>
@@ -95,7 +95,7 @@
 ## <samp>toolbox</samp>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,astro,nodejs,threejs,dart,flutter,supabase,docker,git,github,bash,linux,vscode" alt="Python, JavaScript, TypeScript, React, Next.js, Astro, Node.js, Three.js, Dart, Flutter, Supabase, Docker, Git, GitHub, Bash, Linux, VS Code" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,astro,nodejs,threejs,dart,flutter,supabase,docker,git,github,bash,linux,vscode" alt="Python, JavaScript, TypeScript, React, Next.js, Astro, Node.js, Three.js, Dart, Flutter, Supabase, Docker, Git, GitHub, Bash, Linux, VS Code" width="100%" />
 </p>
 
 <p>
@@ -105,7 +105,7 @@
   automation. The commits may be private; the experience is not.
 </p>
 
-<table align="center">
+<table width="100%">
 <tr>
 <th align="left">Category</th>
 <th align="left">Tools and habits</th>
@@ -151,7 +151,7 @@
   <img src="https://img.shields.io/badge/Updated%20since%20May%204%2C%202026-14-2ea043?style=for-the-badge" alt="14 repositories updated since May 4, 2026" />
 </p>
 
-<table align="center">
+<table width="100%">
 <tr>
 <th align="left">Signal</th>
 <th align="left">What the public cards miss</th>
