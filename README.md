@@ -33,7 +33,7 @@
   </p>
   <p>
     <a href="https://buymeacoffee.com/andrewodom18">
-      <img src="https://img.shields.io/badge/%23buymeacoffee-fund%20my%20addiction-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="#buymeacoffee" />
+      <img src="https://img.shields.io/badge/%23buymeacoffee-click%20for%20caffeine-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="#buymeacoffee" />
     </a>
   </p>
   <p>
@@ -76,7 +76,7 @@
 ## <samp>toolbox</samp>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,astro,nodejs,dart,flutter,supabase,docker,git,github,bash,linux,vscode" alt="Python, TypeScript, React, Next.js, Astro, Node.js, Dart, Flutter, Supabase, Docker, Git, GitHub, Bash, Linux, VS Code" />
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,astro,nodejs,dart,flutter,supabase,docker,tailscale,git,github,bash,linux,vscode" alt="Python, TypeScript, React, Next.js, Astro, Node.js, Dart, Flutter, Supabase, Docker, Tailscale, Git, GitHub, Bash, Linux, VS Code" />
 </p>
 
 <p>
@@ -93,7 +93,7 @@
 | Mobile apps | Flutter, Riverpod, GoRouter, local notifications, secure storage, file/image pickers, PDF generation |
 | Data and backend | Supabase, SQLite, Drizzle ORM, CSV pipelines, TOML configs, Excel/HTML exports |
 | Realtime and interactive | Three.js, server-authoritative game loops, browser clients, Node/ws services |
-| Infrastructure | Docker, Compose, Ansible, Just, PM2, Linux service automation, Home Assistant |
+| Infrastructure | Docker, Compose, Tailscale, Ansible, Just, PM2, Linux service automation, Home Assistant |
 | Quality | TypeScript checks, ESLint, Python unittest, Flutter tests, GitHub Actions, README-first handoffs |
 
 <a id="private-org-stats"></a>
