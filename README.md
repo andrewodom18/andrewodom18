@@ -29,7 +29,7 @@
     good enough that future me does not have to open a detective agency.
   </p>
   <p>
-    <samp>Ship the useful thing. Test the weird edge case. Rename the variable before it becomes folklore.</samp>
+    <samp>Ship the useful thing. Test the weird edge case. Rename final_final_v3 before it gets promoted.</samp>
   </p>
 </td>
 </tr>
