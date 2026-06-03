@@ -21,7 +21,7 @@
   <sub><samp>@andrewodom18</samp></sub>
 </td>
 <td valign="top">
-  <h1>Hi, I'm Andrew.</h1>
+  <h1>I turn messy workflows into buttons people actually click.</h1>
   <p>
     Software developer in Montgomery, Alabama, currently building practical
     tools for the Air Force side of the house. I like software that removes
