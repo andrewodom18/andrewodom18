@@ -43,6 +43,8 @@
     /
     <a href="#toolbox">toolbox</a>
     /
+    <a href="#private-org-stats">stats</a>
+    /
     <a href="#working-style">working style</a>
     /
     <a href="#contact">contact</a>
@@ -62,7 +64,7 @@
 | Primary lane | Full-stack web apps, Flutter mobile apps, data cleanup systems, and server automation |
 | Private project range | Real-time browser games, business websites, mobile recordkeeping apps, internal event tools, home/server automation |
 | What I enjoy | Turning "this CSV is cursed" into "click here, get the clean file" |
-| Current public project | [`Shadow-View`](https://github.com/andrewodom18/Shadow-View), a Python toolkit for cleaning Shadow View CSV exports |
+| Featured project | Shadow-View, a Python toolkit for cleaning Shadow View CSV exports |
 
 <a id="featured-work"></a>
 
@@ -71,7 +73,7 @@
 <table>
 <tr>
 <td width="34%" valign="top">
-  <h3><a href="https://github.com/andrewodom18/Shadow-View">Shadow-View</a></h3>
+  <h3>Shadow-View</h3>
   <p><samp>Python / CSV / SQLite / TOML / unittest / Windows app packaging</samp></p>
 </td>
 <td valign="top">
@@ -116,6 +118,30 @@
 | Infrastructure | Docker, Compose, Ansible, Just, PM2, Linux service automation, Home Assistant |
 | Quality | TypeScript checks, ESLint, Python unittest, Flutter tests, GitHub Actions, README-first handoffs |
 
+<a id="private-org-stats"></a>
+
+## <samp>private + org stats</samp>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos%20tracked-15-24292f?style=for-the-badge" alt="15 repositories tracked" />
+  <img src="https://img.shields.io/badge/Private%20repos-14-8957e5?style=for-the-badge" alt="14 private repositories" />
+  <img src="https://img.shields.io/badge/Org%20%2B%20collab%20repos-13-1f6feb?style=for-the-badge" alt="13 organization and collaboration repositories" />
+  <img src="https://img.shields.io/badge/Updated%20since%20May%204%2C%202026-14-2ea043?style=for-the-badge" alt="14 repositories updated since May 4, 2026" />
+</p>
+
+| Signal | What the public cards miss |
+| --- | --- |
+| Codebase footprint | 15 accessible repos across public, private, organization, and collaboration work |
+| Private work | 14 private repos represented without exposing private code or implementation details |
+| Org/collab work | 13 repos in organizations or collaborator-owned spaces |
+| Recent activity | 14 repos updated since May 4, 2026 |
+| Language footprint | TypeScript 66.4%, Dart 24.8%, CSS 3.0%, Python 2.7%, PLpgSQL 1.2%, Shell 1.0% |
+| Product surface | Full-stack web apps, Flutter mobile apps, realtime browser experiences, data tools, server automation |
+
+<p>
+  <sub><samp>Snapshot generated from GitHub metadata this profile can access. Private implementation details stay private; the work still counts.</samp></sub>
+</p>
+
 <a id="working-style"></a>
 
 ## <samp>working style</samp>
@@ -133,15 +159,6 @@
 <p>
   Best place to start is GitHub:
   <a href="https://github.com/andrewodom18">@andrewodom18</a>.
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrewodom18&theme=github_dark" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrewodom18&theme=github_dark" alt="Top languages by repo" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrewodom18&theme=github_dark" alt="GitHub profile details" />
 </p>
 
 <p align="center">
