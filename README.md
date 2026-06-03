@@ -6,7 +6,9 @@
   <a href="https://github.com/andrewodom18">
     <img src="https://img.shields.io/badge/GitHub-andrewodom18-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb" alt="GitHub profile" />
   </a>
-  <img src="https://img.shields.io/badge/Role-Software%20Developer-1f6feb?style=for-the-badge&labelColor=1f6feb" alt="Software Developer" />
+  <a href="https://aodom.dev/">
+    <img src="https://img.shields.io/badge/Resume-aodom.dev-1f6feb?style=for-the-badge&logo=readme&logoColor=white&labelColor=1f6feb" alt="Resume website" />
+  </a>
   <a href="https://www.linkedin.com/in/andrewodom18/">
     <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Odom-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f6feb" alt="LinkedIn profile" />
   </a>
