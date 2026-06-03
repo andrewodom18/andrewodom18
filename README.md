@@ -76,10 +76,11 @@
 ## <samp>toolbox</samp>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,astro,nodejs,threejs,dart,flutter,supabase,docker,tailscale,git,github,bash,linux,vscode" alt="Python, JavaScript, TypeScript, React, Next.js, Astro, Node.js, Three.js, Dart, Flutter, Supabase, Docker, Tailscale, Git, GitHub, Bash, Linux, VS Code" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,astro,nodejs,threejs,dart,flutter,supabase,docker,git,github,bash,linux,vscode" alt="Python, JavaScript, TypeScript, React, Next.js, Astro, Node.js, Three.js, Dart, Flutter, Supabase, Docker, Git, GitHub, Bash, Linux, VS Code" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Tailscale-secure%20networking-1f6feb?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale secure networking" />
   <img src="https://img.shields.io/badge/Clerk-auth%20platform-1f6feb?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk auth platform" />
   <img src="https://img.shields.io/badge/Convex-app%20backend-1f6feb?style=for-the-badge&logo=convex&logoColor=white" alt="Convex app backend" />
 </p>
