@@ -34,7 +34,7 @@
   </p>
   <p>
     <a href="https://buymeacoffee.com/andrewodom18">
-      <img src="https://img.shields.io/badge/%23buymeacoffee-click%20for%20caffeine-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="#buymeacoffee" />
+      <img src="https://img.shields.io/badge/%23buymeacoffee-fund%20my%20addiction-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="#buymeacoffee" />
     </a>
   </p>
   <p>
