@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1f6feb,50:24292f,100:8957e5&text=Andrew%20Odom&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=Software%20Developer%20%7C%20Python%20Automation%20%7C%20Useful%20Tools&descAlign=50&descAlignY=61" alt="Andrew Odom profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1f6feb,50:24292f,100:8957e5&text=Andrew%20Odom&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=Software%20Developer%20%7C%20Data%20Cleanup%20Systems%20%7C%20Workflow%20Tooling&descAlign=50&descAlignY=61" alt="Andrew Odom profile banner" width="100%" />
 </p>
 
 <p align="center">
@@ -7,7 +7,9 @@
     <img src="https://img.shields.io/badge/GitHub-andrewodom18-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <img src="https://img.shields.io/badge/Role-Software%20Developer-1f6feb?style=for-the-badge" alt="Software Developer" />
-  <img src="https://img.shields.io/badge/Focus-Automation%20%2B%20Data%20Cleanup-8957e5?style=for-the-badge" alt="Automation and data cleanup" />
+  <a href="https://www.linkedin.com/in/andrewodom18">
+    <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Odom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=24292f&label=profile+views" alt="Profile views" />
 </p>
 
