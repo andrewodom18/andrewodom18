@@ -21,7 +21,7 @@
   <sub><samp>@andrewodom18</samp></sub>
 </td>
 <td valign="top">
-  <h1>I turn "why are we doing this manually?" into "we are not."</h1>
+  <h1>I fix he "why are we doing this manually?" problem."</h1>
   <p>
     Software developer building web apps, mobile apps, data tooling, and server
     automation. I focus on tools that reduce manual work and improve messy
