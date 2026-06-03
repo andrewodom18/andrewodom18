@@ -80,6 +80,11 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Clerk-auth%20platform-1f6feb?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk auth platform" />
+  <img src="https://img.shields.io/badge/Convex-app%20backend-1f6feb?style=for-the-badge&logo=convex&logoColor=white" alt="Convex app backend" />
+</p>
+
+<p>
   A lot of my work lives in private repos, but the stack still counts. Recent
   projects include TypeScript web apps, Flutter mobile apps, realtime browser
   experiences, Supabase-backed products, Home Assistant config, and server
@@ -91,7 +96,7 @@
 | Languages | Python, JavaScript, TypeScript, Dart, SQL/PLpgSQL, Shell, PowerShell, HTML, CSS |
 | Web apps | React, Next.js, Astro, Vite, Tailwind CSS, Node.js, Express, WebSockets |
 | Mobile apps | Flutter, Riverpod, GoRouter, local notifications, secure storage, file/image pickers, PDF generation |
-| Data and backend | Supabase, SQLite, Drizzle ORM, CSV pipelines, TOML configs, Excel/HTML exports |
+| Auth and backend | Clerk, Convex, Supabase, SQLite, Drizzle ORM, CSV pipelines, TOML configs, Excel/HTML exports |
 | Realtime and interactive | Three.js, server-authoritative game loops, browser clients, Node/ws services |
 | Infrastructure | Docker, Compose, Tailscale, Ansible, Just, PM2, Linux service automation, Home Assistant |
 | Quality | TypeScript checks, ESLint, Python unittest, Flutter tests, GitHub Actions, README-first handoffs |
