@@ -65,8 +65,8 @@
 
 <table width="100%">
 <tr>
-<th align="left">Area</th>
-<th align="left">Details</th>
+<th align="left" width="20%">Area</th>
+<th align="left" width="80%">Details&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 </tr>
 <tr>
 <td>Current role</td>
@@ -95,7 +95,7 @@
 ## <samp>toolbox</samp>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,astro,nodejs,threejs,dart,flutter,supabase,docker,git,github,bash,linux,vscode" alt="Python, JavaScript, TypeScript, React, Next.js, Astro, Node.js, Three.js, Dart, Flutter, Supabase, Docker, Git, GitHub, Bash, Linux, VS Code" width="100%" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,astro,nodejs,threejs,dart,flutter,supabase,docker,git,github,bash,linux,vscode&perline=18" alt="Python, JavaScript, TypeScript, React, Next.js, Astro, Node.js, Three.js, Dart, Flutter, Supabase, Docker, Git, GitHub, Bash, Linux, VS Code" width="100%" />
 </p>
 
 <p>
@@ -107,8 +107,8 @@
 
 <table width="100%">
 <tr>
-<th align="left">Category</th>
-<th align="left">Tools and habits</th>
+<th align="left" width="22%">Category</th>
+<th align="left" width="78%">Tools and habits&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 </tr>
 <tr>
 <td>Languages</td>
@@ -153,8 +153,8 @@
 
 <table width="100%">
 <tr>
-<th align="left">Signal</th>
-<th align="left">What the public cards miss</th>
+<th align="left" width="24%">Signal</th>
+<th align="left" width="76%">What the public cards miss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 </tr>
 <tr>
 <td>Codebase footprint</td>
