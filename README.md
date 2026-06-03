@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/andrewodom18">
-    <img src="https://img.shields.io/badge/GitHub-andrewodom18-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-andrewodom18-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://aodom.dev/">
-    <img src="https://img.shields.io/badge/Resume-aodom.dev-1f6feb?style=for-the-badge&logo=readme&logoColor=white&labelColor=1f6feb" alt="Resume website" />
+    <img src="https://img.shields.io/badge/Resume-aodom.dev-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="Resume website" />
   </a>
   <a href="https://www.linkedin.com/in/andrewodom18/">
-    <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Odom-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f6feb" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-andrewodom18-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=1f6feb&label=profile+views" alt="Profile views" />
 </p>
