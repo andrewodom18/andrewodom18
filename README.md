@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/andrewodom18/">
     <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Odom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
+  <a href="https://buymeacoffee.com/andrewodom18">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-andrewodom18-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy me a coffee" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=24292f&label=profile+views" alt="Profile views" />
 </p>
 
@@ -21,9 +24,18 @@
   <sub><samp>@andrewodom18</samp></sub>
 </td>
 <td valign="top">
-  <h2>Hello World!</h1>
+  <h2>Hello World!</h2>
   <p>
-    I am a software developer whose expertise is websites, web/mobile apps, data tooling, and server automation. I focus on tools that reduce manual work and improve messy processes so everyone can have a good time. I am a professional coding hobbyist who is highly skilled in converting caffeine to code. #buymeacoffee
+    I am a software developer whose expertise is websites, web/mobile apps,
+    data tooling, and server automation. I focus on tools that reduce manual
+    work and improve messy processes so everyone can have a good time. I am a
+    professional coding hobbyist who is highly skilled in converting caffeine
+    to code.
+  </p>
+  <p>
+    <a href="https://buymeacoffee.com/andrewodom18">
+      <img src="https://img.shields.io/badge/%23buymeacoffee-click%20for%20caffeine-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="#buymeacoffee" />
+    </a>
   </p>
   <p>
     <samp>I fix the "why are we doing this manually?" problem...</samp>
