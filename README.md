@@ -59,7 +59,8 @@
 | --- | --- |
 | Current role | Software Developer - Air Force |
 | Location | Montgomery, Alabama |
-| Primary lane | Python utilities, workflow automation, data cleanup, and small desktop tools |
+| Primary lane | Full-stack web apps, Flutter mobile apps, data cleanup systems, and server automation |
+| Private project range | Real-time browser games, business websites, mobile recordkeeping apps, internal event tools, home/server automation |
 | What I enjoy | Turning "this CSV is cursed" into "click here, get the clean file" |
 | Current public project | [`Shadow-View`](https://github.com/andrewodom18/Shadow-View), a Python toolkit for cleaning Shadow View CSV exports |
 
@@ -95,16 +96,25 @@
 ## <samp>toolbox</samp>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,github,git,vscode,windows" alt="Python, GitHub, Git, VS Code, Windows" />
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,astro,nodejs,dart,flutter,supabase,docker,git,github,bash,linux,vscode" alt="Python, TypeScript, React, Next.js, Astro, Node.js, Dart, Flutter, Supabase, Docker, Git, GitHub, Bash, Linux, VS Code" />
+</p>
+
+<p>
+  A lot of my work lives in private repos, but the stack still counts. Recent
+  projects include TypeScript web apps, Flutter mobile apps, realtime browser
+  experiences, Supabase-backed products, Home Assistant config, and server
+  automation. The commits may be private; the experience is not.
 </p>
 
 | Category | Tools and habits |
 | --- | --- |
-| Languages | Python, plus enough shell/batch scripting to automate the boring bits |
-| Data work | CSV cleanup, validation, sorting, grouping, SQLite staging, Excel-friendly output |
-| App shape | CLI tools, importable packages, lightweight desktop utilities, backend-ready modules |
-| Quality | Unit tests, explicit errors, config files, and README instructions that assume the reader is busy |
-| Collaboration | Clear handoff notes, maintainable structure, and comments only where the code earns them |
+| Languages | Python, TypeScript, Dart, SQL/PLpgSQL, Shell, PowerShell, HTML, CSS |
+| Web apps | React, Next.js, Astro, Vite, Tailwind CSS, Node.js, Express, WebSockets |
+| Mobile apps | Flutter, Riverpod, GoRouter, local notifications, secure storage, file/image pickers, PDF generation |
+| Data and backend | Supabase, SQLite, Drizzle ORM, CSV pipelines, TOML configs, Excel/HTML exports |
+| Realtime and interactive | Three.js, server-authoritative game loops, browser clients, Node/ws services |
+| Infrastructure | Docker, Compose, Ansible, Just, PM2, Linux service automation, Home Assistant |
+| Quality | TypeScript checks, ESLint, Python unittest, Flutter tests, GitHub Actions, README-first handoffs |
 
 <a id="working-style"></a>
 
