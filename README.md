@@ -145,10 +145,10 @@
 ## <samp>private + org stats</samp>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos%20tracked-15-24292f?style=for-the-badge" alt="15 repositories tracked" />
-  <img src="https://img.shields.io/badge/Private%20repos-14-8957e5?style=for-the-badge" alt="14 private repositories" />
-  <img src="https://img.shields.io/badge/Org%20%2B%20collab%20repos-13-1f6feb?style=for-the-badge" alt="13 organization and collaboration repositories" />
-  <img src="https://img.shields.io/badge/Updated%20since%20May%204%2C%202026-14-2ea043?style=for-the-badge" alt="14 repositories updated since May 4, 2026" />
+  <img src="https://img.shields.io/badge/Repos%20tracked-31-24292f?style=for-the-badge" alt="31 repositories tracked" />
+  <img src="https://img.shields.io/badge/Private%20repos-25-8957e5?style=for-the-badge" alt="25 private repositories" />
+  <img src="https://img.shields.io/badge/Org%20%2B%20collab%20repos-25-1f6feb?style=for-the-badge" alt="25 organization and collaboration repositories" />
+  <img src="https://img.shields.io/badge/Updated%20since%20May%2023%2C%202026-29-2ea043?style=for-the-badge" alt="29 repositories updated since May 23, 2026" />
 </p>
 
 <table width="100%">
@@ -158,23 +158,23 @@
 </tr>
 <tr>
 <td>Codebase footprint</td>
-<td>15 accessible repos across public, private, organization, and collaboration work</td>
+<td>31 accessible non-fork repos across public, private, organization, and collaboration work</td>
 </tr>
 <tr>
 <td>Private work</td>
-<td>14 private repos represented without exposing private code or implementation details</td>
+<td>25 private repos represented without exposing private code or implementation details</td>
 </tr>
 <tr>
 <td>Org/collab work</td>
-<td>13 repos in organizations or collaborator-owned spaces</td>
+<td>25 repos in organizations or collaborator-owned spaces</td>
 </tr>
 <tr>
 <td>Recent activity</td>
-<td>14 repos updated since May 4, 2026</td>
+<td>29 repos updated since May 23, 2026</td>
 </tr>
 <tr>
 <td>Language footprint</td>
-<td>TypeScript 66.4%, Dart 24.8%, CSS 3.0%, Python 2.7%, PLpgSQL 1.2%, Shell 1.0%</td>
+<td>TypeScript 58.2%, Dart 19.6%, Go 13.6%, CSS 2.8%, Python 2.2%, Shell 1.0%, PLpgSQL 1.0%</td>
 </tr>
 <tr>
 <td>Product surface</td>
@@ -183,7 +183,7 @@
 </table>
 
 <p>
-  <sub><samp>Snapshot generated from GitHub metadata this profile can access. Private implementation details stay private; the work still counts.</samp></sub>
+  <sub><samp>Snapshot generated from accessible non-fork GitHub metadata. Private implementation details stay private; the work still counts.</samp></sub>
 </p>
 
 <a id="working-style"></a>
