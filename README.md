@@ -36,9 +36,6 @@
       <img src="https://img.shields.io/badge/%23buymeacoffee-fund%20my%20addiction-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="#buymeacoffee" />
     </a>
   </p>
-  <p>
-    <samp>I fix the "why are we doing this manually?" problem...</samp>
-  </p>
 </td>
 </tr>
 </table>
