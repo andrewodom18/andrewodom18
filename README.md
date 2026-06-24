@@ -142,10 +142,10 @@
 ## <samp>private + org stats</samp>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos%20tracked-31-24292f?style=for-the-badge" alt="31 repositories tracked" />
-  <img src="https://img.shields.io/badge/Private%20repos-25-8957e5?style=for-the-badge" alt="25 private repositories" />
-  <img src="https://img.shields.io/badge/Org%20%2B%20collab%20repos-25-1f6feb?style=for-the-badge" alt="25 organization and collaboration repositories" />
-  <img src="https://img.shields.io/badge/Updated%20since%20May%2023%2C%202026-29-2ea043?style=for-the-badge" alt="29 repositories updated since May 23, 2026" />
+  <img src="https://img.shields.io/badge/Repos%20tracked-35-24292f?style=for-the-badge" alt="35 repositories tracked" />
+  <img src="https://img.shields.io/badge/Private%20repos-29-8957e5?style=for-the-badge" alt="29 private repositories" />
+  <img src="https://img.shields.io/badge/Org%20%2B%20collab%20repos-29-1f6feb?style=for-the-badge" alt="29 organization and collaboration repositories" />
+  <img src="https://img.shields.io/badge/Updated%20since%20May%2025%2C%202026-31-2ea043?style=for-the-badge" alt="31 repositories updated since May 25, 2026" />
 </p>
 
 <table width="100%">
@@ -155,23 +155,23 @@
 </tr>
 <tr>
 <td>Codebase footprint</td>
-<td>31 accessible non-fork repos across public, private, organization, and collaboration work</td>
+<td>35 accessible non-fork repos across public, private, organization, and collaboration work</td>
 </tr>
 <tr>
 <td>Private work</td>
-<td>25 private repos represented without exposing private code or implementation details</td>
+<td>29 private repos represented without exposing private code or implementation details</td>
 </tr>
 <tr>
 <td>Org/collab work</td>
-<td>25 repos in organizations or collaborator-owned spaces</td>
+<td>29 repos in organizations or collaborator-owned spaces</td>
 </tr>
 <tr>
 <td>Recent activity</td>
-<td>29 repos updated since May 23, 2026</td>
+<td>31 repos updated since May 25, 2026</td>
 </tr>
 <tr>
 <td>Language footprint</td>
-<td>TypeScript 58.2%, Dart 19.6%, Go 13.6%, CSS 2.8%, Python 2.2%, Shell 1.0%, PLpgSQL 1.0%</td>
+<td>TypeScript 58.1%, Dart 19.1%, Go 13.2%, CSS 3.2%, Python 2.4%, Shell 1.3%, HTML 1.0%, PLpgSQL 1.0%</td>
 </tr>
 <tr>
 <td>Product surface</td>
