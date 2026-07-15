@@ -81,10 +81,6 @@
 <td>Private project range</td>
 <td>Real-time browser games, business websites, mobile recordkeeping apps, internal event tools, home/server automation</td>
 </tr>
-<tr>
-<td>What I enjoy</td>
-<td>Turning "this CSV is cursed" into "click here, get the clean file"</td>
-</tr>
 </table>
 
 <a id="toolbox"></a>
