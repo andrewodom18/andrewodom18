@@ -11,7 +11,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=1f6feb&label=profile+views" alt="Profile views" />
   <a href="https://buymeacoffee.com/andrewodom18">
-    <img src="https://img.shields.io/badge/%23buymeacoffee-caffeinate-FFDD00?style=for-the-badge&logoColor=000000" alt="#buymeacoffee" />
+    <img src="https://img.shields.io/badge/%23buymeacoffee-caffeinate%20me-FFDD00?style=for-the-badge&logoColor=000000" alt="#buymeacoffee" />
   </a>
 </p>
 
@@ -189,19 +189,11 @@
 ## <samp>contact</samp>
 
 <p>
-  Best place to start is the contact section on my resume site:
-  <a href="https://andrewodom18.github.io/#contact">andrewodom18.github.io/#contact</a>.
-</p>
-
-<p align="center">
-  <a href="https://andrewodom18.github.io/#contact">
-    <img src="https://img.shields.io/badge/Contact-andrewodom18.github.io%2F%23contact-1f6feb?style=for-the-badge" alt="Contact section on resume site" />
-  </a>
+  Email: <a href="mailto:contact@aodom.dev">contact@aodom.dev</a>
 </p>
 
 <p>
-  GitHub is still good for code-shaped conversations:
-  <a href="https://github.com/andrewodom18">@andrewodom18</a>.
+  LinkedIn: <a href="https://linkedin/in/andrewodom18">@andrewodom18</a>
 </p>
 
 <p align="center">
