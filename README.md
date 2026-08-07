@@ -3,11 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/andrewodom18">
-    <img src="https://img.shields.io/badge/GitHub-andrewodom18-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://aodom.dev/">
-    <img src="https://img.shields.io/badge/Resume-aodom.dev-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="Resume website" />
+  <a href="https://andrewodom18.github.io/">
+    <img src="https://img.shields.io/badge/Resume-andrewodom18.github.io-1f6feb?style=for-the-badge" alt="Resume website" />
   </a>
   <a href="https://www.linkedin.com/in/andrewodom18/">
     <img src="https://img.shields.io/badge/LinkedIn-andrewodom18-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
