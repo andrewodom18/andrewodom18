@@ -189,13 +189,13 @@
 ## <samp>contact</samp>
 
 <p>
-  Best place to start is the contact form on my resume site:
-  <a href="https://aodom.dev/#contact">aodom.dev/#contact</a>.
+  Best place to start is the contact section on my resume site:
+  <a href="https://andrewodom18.github.io/#contact">andrewodom18.github.io/#contact</a>.
 </p>
 
 <p align="center">
-  <a href="https://aodom.dev/#contact">
-    <img src="https://img.shields.io/badge/Contact%20form-aodom.dev%2F%23contact-1f6feb?style=for-the-badge" alt="Contact form on aodom.dev" />
+  <a href="https://andrewodom18.github.io/#contact">
+    <img src="https://img.shields.io/badge/Contact-andrewodom18.github.io%2F%23contact-1f6feb?style=for-the-badge" alt="Contact section on resume site" />
   </a>
 </p>
 
