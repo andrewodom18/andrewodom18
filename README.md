@@ -25,11 +25,10 @@
 <td valign="top">
   <h2>Hello World!</h2>
   <p>
-    I am a software developer whose expertise is websites, web/mobile apps,
-    data tooling, and server automation. I focus on tools that reduce manual
-    work and improve messy processes so everyone can have a good time. I am a
-    professional coding hobbyist who is highly skilled in converting caffeine
-    to code.
+    I am a software developer at Air Force BESPIN, where I contribute to web
+    and mobile applications. My broader work includes TypeScript and Flutter
+    applications, relational data systems, testing, and delivery automation.
+    I am also completing a bachelor's degree in Computer Science.
   </p>
 </td>
 </tr>
@@ -62,19 +61,19 @@
 </tr>
 <tr>
 <td>Current role</td>
-<td>Software Developer - Air Force</td>
+<td>Software Developer — Air Force BESPIN</td>
 </tr>
 <tr>
 <td>Location</td>
 <td>Montgomery, Alabama</td>
 </tr>
 <tr>
-<td>Primary lane</td>
-<td>Full-stack web apps, Flutter mobile apps, data cleanup systems, and server automation</td>
+<td>Primary focus</td>
+<td>Web and mobile applications, relational data systems, testing, and delivery automation</td>
 </tr>
 <tr>
-<td>Private project range</td>
-<td>Real-time browser games, business websites, mobile recordkeeping apps, internal event tools, home/server automation</td>
+<td>Education</td>
+<td>Bachelor's in Computer Science in progress; Master's in Cybersecurity planned</td>
 </tr>
 </table>
 
@@ -87,10 +86,9 @@
 </p>
 
 <p>
-  A lot of my work lives in private repos, but the stack still counts. Recent
-  projects include TypeScript web apps, Flutter mobile apps, realtime browser
-  experiences, Supabase-backed products, Home Assistant config, and server
-  automation. The commits may be private; the experience is not.
+  A lot of my work lives in private repositories. My current focus includes
+  TypeScript web applications, Flutter mobile applications, relational data
+  systems, testing, and delivery automation.
 </p>
 
 <table width="100%">
@@ -120,7 +118,7 @@
 </tr>
 <tr>
 <td>Infrastructure</td>
-<td>Docker, Compose, Tailscale, Ansible, Just, PM2, Linux service automation, Home Assistant</td>
+<td>Docker, GitHub Actions, deployment automation, and Linux</td>
 </tr>
 <tr>
 <td>Quality</td>
@@ -133,10 +131,10 @@
 ## <samp>private + org stats</samp>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos%20tracked-35-24292f?style=for-the-badge" alt="35 repositories tracked" />
-  <img src="https://img.shields.io/badge/Private%20repos-29-8957e5?style=for-the-badge" alt="29 private repositories" />
-  <img src="https://img.shields.io/badge/Org%20%2B%20collab%20repos-29-1f6feb?style=for-the-badge" alt="29 organization and collaboration repositories" />
-  <img src="https://img.shields.io/badge/Updated%20since%20May%2025%2C%202026-31-2ea043?style=for-the-badge" alt="31 repositories updated since May 25, 2026" />
+  <img src="https://img.shields.io/badge/Repos%20tracked-48-24292f?style=for-the-badge" alt="48 repositories tracked" />
+  <img src="https://img.shields.io/badge/Private%20repos-33-8957e5?style=for-the-badge" alt="33 private repositories" />
+  <img src="https://img.shields.io/badge/Org%20%2B%20collab%20repos-35-1f6feb?style=for-the-badge" alt="35 organization and collaboration repositories" />
+  <img src="https://img.shields.io/badge/Updated%20last%2090%20days-48-2ea043?style=for-the-badge" alt="48 repositories updated in the 90 days ending August 6, 2026" />
 </p>
 
 <table width="100%">
@@ -146,32 +144,32 @@
 </tr>
 <tr>
 <td>Codebase footprint</td>
-<td>35 accessible non-fork repos across public, private, organization, and collaboration work</td>
+<td>48 accessible non-fork repos across public, private, organization, and collaboration work</td>
 </tr>
 <tr>
 <td>Private work</td>
-<td>29 private repos represented without exposing private code or implementation details</td>
+<td>33 private repos represented without exposing private code or implementation details</td>
 </tr>
 <tr>
 <td>Org/collab work</td>
-<td>29 repos in organizations or collaborator-owned spaces</td>
+<td>35 repos in organizations or collaborator-owned spaces</td>
 </tr>
 <tr>
 <td>Recent activity</td>
-<td>31 repos updated since May 25, 2026</td>
+<td>48 repos updated in the 90 days ending August 6, 2026</td>
 </tr>
 <tr>
 <td>Language footprint</td>
-<td>TypeScript 58.1%, Dart 19.1%, Go 13.2%, CSS 3.2%, Python 2.4%, Shell 1.3%, HTML 1.0%, PLpgSQL 1.0%</td>
+<td>TypeScript 46.0%, Clojure 26.0%, Dart 7.4%, Go 4.9%, Rust 4.6%, JavaScript 3.0%, HTML 2.7%, CSS 1.9%, other 3.5%</td>
 </tr>
 <tr>
 <td>Product surface</td>
-<td>Full-stack web apps, Flutter mobile apps, realtime browser experiences, data tools, server automation</td>
+<td>Full-stack web applications, Flutter mobile applications, relational data systems, testing, and delivery automation</td>
 </tr>
 </table>
 
 <p>
-  <sub><samp>Snapshot generated from accessible non-fork GitHub metadata. Private implementation details stay private; the work still counts.</samp></sub>
+  <sub><samp>Snapshot refreshed August 6, 2026 from accessible non-fork GitHub metadata. Private implementation details stay private.</samp></sub>
 </p>
 
 <a id="working-style"></a>
@@ -193,7 +191,7 @@
 </p>
 
 <p>
-  LinkedIn: <a href="https://linkedin/in/andrewodom18">@andrewodom18</a>
+  LinkedIn: <a href="https://www.linkedin.com/in/andrewodom18/">@andrewodom18</a>
 </p>
 
 <p align="center">
