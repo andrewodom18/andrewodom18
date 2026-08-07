@@ -11,7 +11,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=1f6feb&label=profile+views" alt="Profile views" />
   <a href="https://buymeacoffee.com/andrewodom18">
-    <img src="https://img.shields.io/badge/%23buymeacoffee-caffeinate%20me-FFDD00?style=for-the-badge&logoColor=000000" alt="#buymeacoffee" />
+    <img src="https://img.shields.io/badge/buymeacoffee-caffeinate%20me-FFDD00?style=for-the-badge&logoColor=000000" alt="#buymeacoffee" />
   </a>
 </p>
 
