@@ -10,6 +10,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-andrewodom18-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=1f6feb&label=profile+views" alt="Profile views" />
+  <a href="https://buymeacoffee.com/andrewodom18">
+    <img src="https://img.shields.io/badge/%23buymeacoffee-fund%20my%20addiction-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="#buymeacoffee" />
+  </a>
 </p>
 
 <table width="100%">
@@ -27,11 +30,6 @@
     work and improve messy processes so everyone can have a good time. I am a
     professional coding hobbyist who is highly skilled in converting caffeine
     to code.
-  </p>
-  <p>
-    <a href="https://buymeacoffee.com/andrewodom18">
-      <img src="https://img.shields.io/badge/%23buymeacoffee-fund%20my%20addiction-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="#buymeacoffee" />
-    </a>
   </p>
 </td>
 </tr>
