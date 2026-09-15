@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/andrewodom18/">
     <img src="https://img.shields.io/badge/LinkedIn-andrewodom18-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
+  <a href="https://odomtech.com/">
+    <img src="https://img.shields.io/badge/ODOM%20Tech-founder%20%2B%20builder-8957e5?style=for-the-badge" alt="ODOM Tech founder and builder" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=1f6feb&label=profile+views" alt="Profile views" />
   <a href="https://buymeacoffee.com/andrewodom18">
     <img src="https://img.shields.io/badge/buymeacoffee-caffeinate%20me-FFDD00?style=for-the-badge&logoColor=000000" alt="#buymeacoffee" />
@@ -29,6 +32,12 @@
     and mobile applications. My broader work includes TypeScript and Flutter
     applications, relational data systems, testing, and delivery automation.
     I am also completing a bachelor's degree in Computer Science.
+  </p>
+  <p>
+    I am also the founder and builder behind
+    <a href="https://github.com/odom-technology">ODOM Tech</a>, where I build
+    practical software, developer tools, hosted services, and the infrastructure
+    behind them. Learn more at <a href="https://odomtech.com/">odomtech.com</a>.
   </p>
 </td>
 </tr>
@@ -62,6 +71,10 @@
 <tr>
 <td>Current role</td>
 <td>Software Developer — Air Force BESPIN</td>
+</tr>
+<tr>
+<td>Independent studio</td>
+<td>Founder and builder — <a href="https://github.com/odom-technology">ODOM Tech</a></td>
 </tr>
 <tr>
 <td>Location</td>
@@ -131,10 +144,10 @@
 ## <samp>private + org stats</samp>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos%20tracked-48-24292f?style=for-the-badge" alt="48 repositories tracked" />
-  <img src="https://img.shields.io/badge/Private%20repos-33-8957e5?style=for-the-badge" alt="33 private repositories" />
-  <img src="https://img.shields.io/badge/Org%20%2B%20collab%20repos-35-1f6feb?style=for-the-badge" alt="35 organization and collaboration repositories" />
-  <img src="https://img.shields.io/badge/Updated%20last%2090%20days-48-2ea043?style=for-the-badge" alt="48 repositories updated in the 90 days ending August 6, 2026" />
+  <img src="https://img.shields.io/badge/Repos%20tracked-79-24292f?style=for-the-badge" alt="79 repositories tracked" />
+  <img src="https://img.shields.io/badge/Private%20repos-70-8957e5?style=for-the-badge" alt="70 private repositories" />
+  <img src="https://img.shields.io/badge/Org%20%2B%20collab%20repos-73-1f6feb?style=for-the-badge" alt="73 organization and collaboration repositories" />
+  <img src="https://img.shields.io/badge/Updated%20last%2090%20days-68-2ea043?style=for-the-badge" alt="68 repositories updated in the 90 days ending September 15, 2026" />
 </p>
 
 <table width="100%">
@@ -144,23 +157,27 @@
 </tr>
 <tr>
 <td>Codebase footprint</td>
-<td>48 accessible non-fork repos across public, private, organization, and collaboration work</td>
+<td>79 accessible non-fork repos across public, private, organization, and collaboration work</td>
 </tr>
 <tr>
 <td>Private work</td>
-<td>33 private repos represented without exposing private code or implementation details</td>
+<td>70 private repos represented without exposing private code or implementation details</td>
 </tr>
 <tr>
 <td>Org/collab work</td>
-<td>35 repos in organizations or collaborator-owned spaces</td>
+<td>73 repos in organizations or collaborator-owned spaces</td>
+</tr>
+<tr>
+<td>ODOM Tech</td>
+<td>18 organization-owned repos: one public profile repository and 17 private project repositories</td>
 </tr>
 <tr>
 <td>Recent activity</td>
-<td>48 repos updated in the 90 days ending August 6, 2026</td>
+<td>68 repos updated in the 90 days ending September 15, 2026</td>
 </tr>
 <tr>
 <td>Language footprint</td>
-<td>TypeScript 46.0%, Clojure 26.0%, Dart 7.4%, Go 4.9%, Rust 4.6%, JavaScript 3.0%, HTML 2.7%, CSS 1.9%, other 3.5%</td>
+<td>TypeScript 31.4%, Rust 18.7%, Python 15.4%, Clojure 13.1%, Dart 5.2%, C++ 4.0%, Go 2.5%, JavaScript 2.1%, Shell 1.9%, HTML 1.7%, other 4.0%</td>
 </tr>
 <tr>
 <td>Product surface</td>
@@ -169,7 +186,7 @@
 </table>
 
 <p>
-  <sub><samp>Snapshot refreshed August 6, 2026 from accessible non-fork GitHub metadata. Private implementation details stay private.</samp></sub>
+  <sub><samp>Snapshot refreshed September 15, 2026 from accessible non-fork GitHub metadata. Private implementation details stay private.</samp></sub>
 </p>
 
 <a id="working-style"></a>
