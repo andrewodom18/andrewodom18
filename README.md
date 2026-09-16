@@ -10,6 +10,6 @@
 </p>
 
 ***
-Software developer at Air Force BESPIN and Computer Science student. I work across TypeScript, React, Next.js, Flutter, Python, SQL, backend systems, and delivery automation.
+Software developer at BESPIN and Computer Science student. I work across TypeScript, React, Next.js, Flutter, Python, SQL, backend systems, delivery automation, and more.
 
 Founder and owner of [ODOM Technology](https://github.com/odom-technology), the home for my products, projects, and infrastructure work.
