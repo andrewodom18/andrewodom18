@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andrewodom18&style=for-the-badge&color=1f6feb&label=profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dandrewodom18%26style%3Dfor-the-badge%26color%3D1f6feb%26label%3Dprofile%2Bviews&amp;query=%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%5Blast%28%29%5D&amp;label=profile+views&amp;style=for-the-badge&amp;color=1f6feb" alt="Profile views" />
   <a href="https://buymeacoffee.com/andrewodom18">
     <img src="https://img.shields.io/badge/buymeacoffee-caffeinate%20me-FFDD00?style=for-the-badge&logoColor=000000" alt="#buymeacoffee" />
   </a>
